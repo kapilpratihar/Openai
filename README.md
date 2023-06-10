@@ -1,6 +1,6 @@
 # Openai
 
-1st Method--
+<!-- 1st Method-- -->
 -->Download the get-pip.py installation script by clicking on the following link: get-pip.py. Save the file to a convenient location on your computer.
 -->Open a command prompt and navigate to the directory where you saved the get-pip.py file. Run the following command to install pip: python get-pip.py
 -->make one folder of openai.
