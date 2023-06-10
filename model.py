@@ -2,8 +2,8 @@ import openai
 import os
 
 
-# os.environ["OPENAI_API_KEY"] = "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"
-openai.api_key = "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"
+# os.environ["OPENAI_API_KEY"] = "your api key"
+openai.api_key = "your api key"
 
 # for the dataset
 with open("swami.txt", "r", encoding="utf-8") as file:
